@@ -9,7 +9,7 @@
 
 <h2 align="left"> About Myself </h2>
 
-<div style="display: inline-block; border-bottom: 1px solid #000; width: 90%; margin-bottom: 10px;"></div>
+<div style="display: inline-block; border-bottom: 1px solid #000; width: 30%; margin-bottom: 10px;"></div>
 
 
 - I excel as a Full Stack Developer with expertise in crafting top-notch web applications using React.js and Node.jsin.
