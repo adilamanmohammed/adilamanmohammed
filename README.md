@@ -26,7 +26,7 @@
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
 
-<img align="right" alt="streak-stats" width="390px" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly">
+<img align="right" alt="streak-stats" width="390px" src="https://github-readme-streak-stats.herokuapp.com?user=adilamanmohammed&theme=github-dark-blue&mode=weekly">
 
  
 <img align="left" alt="img" width="390px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adilamanmohammed&show_icons=true&theme=dark&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
