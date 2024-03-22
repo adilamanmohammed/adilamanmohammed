@@ -10,18 +10,14 @@
 
 <h2 align="left"> About Myself </h2>
 
-- I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. 
-
-- My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning.
- 
-- I strive to solve real-world problems leveraging AI.
+- I excel as a Full Stack Developer with expertise in crafting top-notch web applications using React.js and Node.jsin.
+- Moreover, my fervor for Artificial Intelligence (AI) is evident through my active participation and keen interest in AI-related endeavors [3].
  
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
 <a href="https://www.facebook.com/mohammed1rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed1rakib" height="30" width="40" /></a>
-<a href="https://www.instagram.com/md_rakib10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rakib10" height="30" width="40" /></a>
-<a href="https://twitter.com/MdRakib1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdRakib1080" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammedrakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohammed_adil_aman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rakib10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammedadilaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages & Tools:</h3>
