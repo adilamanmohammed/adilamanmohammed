@@ -9,6 +9,9 @@
 
 <h2 align="left"> About Myself </h2>
 
+<div style="display: inline-block; border-bottom: 1px solid #000; width: 90%; margin-bottom: 10px;"></div>
+
+
 - I excel as a Full Stack Developer with expertise in crafting top-notch web applications using React.js and Node.jsin.
 - Moreover, my fervor for Artificial Intelligence (AI) is evident through my active participation and keen interest in AI-related endeavors [3].
  
