@@ -30,7 +30,7 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats) -->
 <!-- Website to make changes: https://github-readme-streak-stats.herokuapp.com/demo/?user=MohammedRakib&theme=github-dark-blue&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=weekly&properties=dates -->
  
-<img align="left" alt="img" width="390px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedRakib&show_icons=true&theme=dark&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
+<img align="left" alt="img" width="390px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adilamanmohammed&show_icons=true&theme=dark&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF) -->
 <!--  Website to make changes: https://github.com/anuraghazra/github-readme-stats -->
  
