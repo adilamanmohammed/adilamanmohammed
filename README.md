@@ -3,8 +3,7 @@
 <!--  Website to make changes: https://readme-typing-svg.demolab.com/demo/ -->
 </h1>
 
-
-<img align="right" alt="img" width="390px" src="./3AyY.gif">
+<img align="right" alt="img" width="500px" src="./3AyY.gif">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adilamanmohammed)
 
