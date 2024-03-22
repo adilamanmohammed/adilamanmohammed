@@ -1,12 +1,12 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+%F0%9F%91%8B+I'm+Adil+Aman+Mohammed;A+Full+Stack+Developer+and+AI+Enthusiastic)](https://git.io/typing-svg)font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5" alt="Typing SVG" /></a>
 <!--  Website to make changes: https://readme-typing-svg.demolab.com/demo/ -->
 </h1>
 
 
 <img align="right" alt="img" width="390px" src="./giphy.gif">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adilamanmohammed)
 
 <h2 align="left"> About Myself </h2>
 
