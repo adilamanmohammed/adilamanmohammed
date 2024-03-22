@@ -15,9 +15,9 @@
  
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
-<a href="https://www.facebook.com/adil.aman.750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed1rakib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/adil.aman.750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilamanmohammed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohammed_adil_aman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rakib10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammedadilaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammedadilaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilamanmohammed" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages & Tools:</h3>
