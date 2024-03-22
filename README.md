@@ -4,7 +4,7 @@
 </h1>
 
 
-<img align="right" alt="img" width="390px" src="./giphy.gif">
+<img align="right" alt="img" width="390px" src="./3AyY.gif">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adilamanmohammed)
 
